@@ -1,0 +1,79 @@
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\arial.ttf
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\asteroid.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\arial.ttf
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\arial.ttf
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.pdb
+E:\Parcial2VideoJuego\Proyecto Base\bin\Debug\assets\Board.jpg
+E:\Parcial2VideoJuego\Proyecto Base\bin\Debug\assets\DotoVideoGame.ttf
+E:\Parcial2VideoJuego\Proyecto Base\bin\Debug\MyGame.exe.config
+E:\Parcial2VideoJuego\Proyecto Base\bin\Debug\MyGame.exe
+E:\Parcial2VideoJuego\Proyecto Base\bin\Debug\MyGame.pdb
+E:\Parcial2VideoJuego\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+E:\Parcial2VideoJuego\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+E:\Parcial2VideoJuego\Proyecto Base\obj\Debug\MyGame.csproj.Up2Date
+E:\Parcial2VideoJuego\Proyecto Base\obj\Debug\MyGame.exe
+E:\Parcial2VideoJuego\Proyecto Base\obj\Debug\MyGame.pdb
+E:\Parcial2VideoJuego\Proyecto Base\bin\Debug\assets\Paddle.jpg
+E:\Parcial2VideoJuego\Proyecto Base\bin\Debug\assets\Victory.jpg
+E:\Parcial2VideoJuego\Proyecto Base\bin\Debug\assets\Ball.png
+E:\Parcial2VideoJuego\Proyecto Base\bin\Debug\assets\YouLose.jpg
+E:\Parcial2VideoJuego\Proyecto Base\bin\Debug\assets\Start.jpg
+E:\Parcial2VideoJuego\Proyecto Base\bin\Debug\assets\happyToBe.wav
+E:\Parcial2VideoJuego\PingPong\bin\Debug\assets\Ball.png
+E:\Parcial2VideoJuego\PingPong\bin\Debug\assets\Board.jpg
+E:\Parcial2VideoJuego\PingPong\bin\Debug\assets\happyToBe.wav
+E:\Parcial2VideoJuego\PingPong\bin\Debug\assets\Paddle.jpg
+E:\Parcial2VideoJuego\PingPong\bin\Debug\assets\Start.jpg
+E:\Parcial2VideoJuego\PingPong\bin\Debug\assets\Victory.jpg
+E:\Parcial2VideoJuego\PingPong\bin\Debug\assets\YouLose.jpg
+E:\Parcial2VideoJuego\PingPong\bin\Debug\assets\DotoVideoGame.ttf
+E:\Parcial2VideoJuego\PingPong\bin\Debug\MyGame.exe.config
+E:\Parcial2VideoJuego\PingPong\bin\Debug\MyGame.exe
+E:\Parcial2VideoJuego\PingPong\bin\Debug\MyGame.pdb
+E:\Parcial2VideoJuego\PingPong\obj\Debug\MyGame.csproj.AssemblyReference.cache
+E:\Parcial2VideoJuego\PingPong\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+E:\Parcial2VideoJuego\PingPong\obj\Debug\MyGame.csproj.Up2Date
+E:\Parcial2VideoJuego\PingPong\obj\Debug\MyGame.exe
+E:\Parcial2VideoJuego\PingPong\obj\Debug\MyGame.pdb
